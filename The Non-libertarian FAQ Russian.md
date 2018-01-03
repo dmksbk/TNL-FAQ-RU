@@ -1,5 +1,5 @@
 # The Non-libertarian FAQ
-Перевод, оригинал: (http://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/)
+> Перевод, оригинал: (http://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/)
 
 <!-- ## Introduction -->
 ## Введение
@@ -28,16 +28,19 @@
 Нет.
 
 <!-- To many people, libertarianism is a reaction against an over-regulated society, and an attempt to spread the word that some seemingly intractable problems can be solved by a hands-off approach. Many libertarians have made excellent arguments for why certain libertarian policies are the best options, and I agree with many of them. I think this kind of libertarianism is a valuable strain of political thought that deserves more attention, and I have no quarrel whatsoever with it and find myself leaning more and more in that direction myself. -->
-Для многих людей либертарианство это реакция против черезмерно зарегулированного общества и попытка расширить идею, что некоторые трудно решаемые проблемы могут быть разрешены с помощью подхода невмешательства. Многие либертарианцы привели отличные аргументы почему
+Для многих людей либертарианство это реакция против черезмерно зарегулированного общества и попытка расширить идею, что некоторые трудно поддающиеся проблемы могут быть разрешены с помощью политики невмешательства. Многие либертарианцы привели отличные аргументы почему определённые либертарианские меры являются лучшим опциями, и я согласен со многими из них. Я считаю, что такое либертарианство является ценным направлением политической мысли, которое заслуживает большего внимания, у меня нет какого-либо его неприятия и я нахожу себя всё более и более склоняющимся в этом направлении.
 
-However, there’s a certain more aggressive, very American strain of libertarianism with which I do have a quarrel. This is the strain which, rather than analyzing specific policies and often deciding a more laissez-faire approach is best, starts with the tenet that government can do no right and private industry can do no wrong and uses this faith in place of more careful analysis. This faction is not averse to discussing politics, but tends to trot out the same few arguments about why less regulation has to be better. I wish I could blame this all on Ayn Rand, but a lot of it seems to come from people who have never heard of her. I suppose I could just add it to the bottom of the list of things I blame Reagan for.
+<!-- However, there’s a certain more aggressive, very American strain of libertarianism with which I do have a quarrel. This is the strain which, rather than analyzing specific policies and often deciding a more laissez-faire approach is best, starts with the tenet that government can do no right and private industry can do no wrong and uses this faith in place of more careful analysis. This faction is not averse to discussing politics, but tends to trot out the same few arguments about why less regulation has to be better. I wish I could blame this all on Ayn Rand, but a lot of it seems to come from people who have never heard of her. I suppose I could just add it to the bottom of the list of things I blame Reagan for. -->
+Однако существует определённо более аггресивное, очень Американское направление либертарианства, с которым у меня есть разногласия. Это направление, которое не анализируя конкретную политику и зачастую решая, что политика невмешательства является лучшим выходом, начинается с принципа, согласно которому правителство не может поступать правильно, а частная промыленность не может ошибаться, и использует эту веру вместо более тщательного анализа. Эта фракция не прочь обсуждать политику, но иимеет тенденцию выходить за рамки тех же самых аргументов, по которым меньший объём регулирования должен быть лучшим. Мне хотелось бы, чтобы я мог обвинить во всём этом Айн Рэнд, но похоже что большинство из них приходят от людей, никогда не слышавших о ней. Полагаю, я мог бы добавить их в конец списка вещей, в которых я обвиняю Рейгана.
 
-To the first type of libertarian, I apologize for writing a FAQ attacking a caricature of your philosophy, but unfortunately that caricature is alive and well and posting smug slogans on Facebook.
+<!-- To the first type of libertarian, I apologize for writing a FAQ attacking a caricature of your philosophy, but unfortunately that caricature is alive and well and posting smug slogans on Facebook. -->
+Я извиняюсь перед либертарианцами первого типа за то что пишу этот FAQ, атакующий карикатуру вашей философии, но к сожалению, эта карикатура жива, хорошо себя чувствует и публикует самодовольные лозунги на Facebook.
 
 <!-- 0.3: Will this FAQ prove that government intervention always works better than the free market? -->
-### 0.3: Докажут ли эти ответы, что вмешательство государства всегда работает лучше чем свободный рынок?
+### 0.3: Докажет ли этот FAQ, что вмешательство государства всегда работает лучше чем свободный рынок?
 
-No, of course not.
+<!-- No, of course not. -->
+Нет, конечно нет
 
 Actually, in most cases, you won’t find me trying to make a positive proof of anything. I believe that deciding on, for example, an optimal taxation policy takes very many numbers and statistical models and other things which are well beyond the scope of this FAQ, and may well have different answers at different levels and in different areas.
 
