@@ -31,7 +31,7 @@
 Для многих людей либертарианство это реакция против черезмерно зарегулированного общества и попытка расширить идею, что некоторые трудно поддающиеся проблемы могут быть разрешены с помощью политики невмешательства. Многие либертарианцы привели отличные аргументы почему определённые либертарианские меры являются лучшим опциями, и я согласен со многими из них. Я считаю, что такое либертарианство является ценным направлением политической мысли, которое заслуживает большего внимания, у меня нет какого-либо его неприятия и я нахожу себя всё более и более склоняющимся в этом направлении.
 
 <!-- However, there’s a certain more aggressive, very American strain of libertarianism with which I do have a quarrel. This is the strain which, rather than analyzing specific policies and often deciding a more laissez-faire approach is best, starts with the tenet that government can do no right and private industry can do no wrong and uses this faith in place of more careful analysis. This faction is not averse to discussing politics, but tends to trot out the same few arguments about why less regulation has to be better. I wish I could blame this all on Ayn Rand, but a lot of it seems to come from people who have never heard of her. I suppose I could just add it to the bottom of the list of things I blame Reagan for. -->
-Однако существует определённо более аггресивное, очень Американское направление либертарианства, с которым у меня есть разногласия. Это направление, которое не анализируя конкретную политику и зачастую решая, что политика невмешательства является лучшим выходом, начинается с принципа, согласно которому правителство не может поступать правильно, а частная промыленность не может ошибаться, и использует эту веру вместо более тщательного анализа. Эта фракция не прочь обсуждать политику, но иимеют тенденцию предъявлять те же самые аргументы, по которым меньший объём регулирования должен быть лучше. Мне хотелось бы, чтобы я мог упрекнуть во всех их Айн Рэнд, но похоже что большинство из них приходят от людей, никогда о ней не слышавших. Полагаю, я мог бы добавить их в конец списка вещей, в которых я обвиняю Рейгана.
+Однако существует определённо более агрессивное, очень Американское направление либертарианства, с которым у меня есть разногласия. Это направление, которое не анализируя конкретную политику и зачастую решая, что политика невмешательства является лучшим выходом, начинается с принципа, согласно которому правительствоо не может поступать правильно, а частнаяпромышленностьть не может ошибаться, и использует эту веру вместо более тщательного анализа. Эта фракция не прочь обсуждать политику, но и имеют тенденцию предъявлять те же самые аргументы, по которым меньший объём регулирования должен быть лучше. Мне хотелось бы, чтобы я мог упрекнуть во всех их Айн Рэнд, но похоже что большинство из них приходят от людей, никогда о ней не слышавших. Полагаю, я мог бы добавить их в конец списка вещей, в которых я обвиняю Рейгана.
 
 <!-- To the first type of libertarian, I apologize for writing a FAQ attacking a caricature of your philosophy, but unfortunately that caricature is alive and well and posting smug slogans on Facebook. -->
 Я извиняюсь перед либертарианцами первого типа за то что пишу этот FAQ, атакующий карикатуру вашей философии, но к сожалению, эта карикатура жива, хорошо себя чувствует и публикует самодовольные лозунги на Facebook.
@@ -49,7 +49,7 @@
 Что я пытаюсь сделать в большинстве случаев это не доказать, что правительство работает лучше чем свободный рынок, или наоборот, но опровергнуть теории, говорящие что мы можем быть абсолютно уверенными, что свободный рынок работает лучше правительства, даже не исследуя проблему. После этого, мы всё ещё можем обнаружить, что это на самом деле один из случаев, когда свободный рынок работает лучше правительства, но мы должны будем доказать это вместо того, чтобы рассматривать это как само собой разумеющееся исходя из первого принципа.
 
 <!-- ### 0.4: Why write a Non-Libertarian FAQ? Isn’t statism a bigger problem than libertarianism? -->
-### 0.4: Зачем писать не-либертарианский FAQ? Разве государственость не является большей проблемой чем либертарианство?
+### 0.4: Зачем писать не-либертарианский FAQ? Разве государственность не является большей проблемой чем либертарианство?
 
 <!-- Yes. But you never run into Stalinists at parties. At least not serious Stalinists over the age of twenty-five, and not the interesting type of parties. If I did, I guess I’d try to convince them not to be so statist, but the issue’s never come up. -->
 Да. Но вы никогда не наткнётесь на сталинистов на вечеринке. По крайней мере не на серьёзного сталиниста в возрасте старше 25 лет, и не на интересной вечеринке. Если бы я наткнулся, то думаю попытался бы убедить их не быть такими государственниками, но такая возможность никогда не возникала.
@@ -58,36 +58,45 @@
 Но сегодня мир определённо полон либертарианцев. И я вижу совсем немного попыток предоставить полную критику либертарианской философии. Существует множество целенаправленных критических замечаний по определённым позициям: люди спорят о социалистическом здравоохранении, им нравится контроль за оружием. Но одна из вещей, которая привлекает людей в либертарианстве состоит в том, что это единая, гармоничная система. В отличие от философий сочетания и комбинирования демократических и республиканских партий, либертарианство является последовательным, а иногда даже вытекающим из первых принципов. Единственный способ разубедить кого-либо в либертарианстве это бросить  вызов всей системе.
 
 <!-- There are a few existing documents trying to do this (see Mike Huben’s Critiques of Libertarianism and Mark Rosenfelder’s What’s (Still) Wrong With Libertarianism for two of the better ones), but I’m not satisfied with any of them. Some of them are good but incomplete. Others use things like social contract theory, which I find nonsensical and libertarians find repulsive. Or they have an overly rosy view of how consensual taxation is, which I don’t fall for and which libertarians definitely don’t fall for. -->
-Существует несколько документов, пытающихся это сделать (см. "Критику Либертарианства" Майка Хебенса и "Что (всё ещё) не так с либертарианством?" Марка Розенфелдера в качестве примера двух лучших работ), но я не удовлетворён ни одной из них. Некотрые хороши, но не полны. Другие используют теорию социальных контрактов, которую я считаю абсурдной, а либертарианцы находят отталкивающей. Или включают слишком радужное представление о том как соласуется налогооблажение, на которое я не клюну и на которое либертарианцы определённо не попадутся.
+Существует несколько документов, пытающихся это сделать (см. "Критику Либертарианства" Майка Хебенса и "Что (всё ещё) не так с либертарианством?" Марка Розенфелдера в качестве примера двух лучших работ), но я не удовлетворён ни одной из них. Некотрые хороши, но не полны. Другие используют теорию социальных контрактов, которую я считаю абсурдной, а либертарианцы находят отталкивающей. Или включают слишком радужное представление о том как согласуется налогооблажение, на которое я не клюну и на которое либертарианцы определённо не попадутся.
 
 <!-- The main reason I’m writing this is that I encounter many libertarians, and I need a single document I can point to explaining why I don’t agree with them. The existing anti-libertarian documentation makes too many arguments I don’t agree with for me to feel really comfortable with it, so I’m writing this one myself. I don’t encounter too many Stalinists, so I don’t have this problem with them and I don’t see any need to write a rebuttal to their position. -->
 Единственная причина почему я пишу данный текст это то что я встречаю много либертарианцев и мне необходим один дркумент, к которому я могу их направить для объяснения почему я с ними не согласен.
 
 <!-- If you really need a pro-libertarian FAQ to use on an overly statist friend, Google suggests The Libertarian FAQ. -->
-Если вам нужен про-либертарианский FAQ, который вы могли бы использовать для черезмерно государственного друга, Google предлагает "Либертарианский FAQ" ("The Libertarian FAQ").
+Если вам нужен про-либертарианский FAQ, который вы могли бы использовать для чрезмерно государственного друга, Google предлагает "Либертарианский FAQ" ("The Libertarian FAQ").
 
 <!-- 0.5: How is this FAQ structured? -->
-### 0.5 Каким образом утроен этот FAQ?
+### 0.5 Каким образом устроен этот FAQ?
 
-I’ve divided it into three main sections. The first addresses some very abstract principles of economics. They may not be directly relevant to politics, but since most libertarian philosophies start with abstract economic principles, a serious counterargument has to start there also. Fair warning: there are people who can discuss economics without it being INCREDIBLY MIND-NUMBINGLY BORING, but I am not one of them.
+<!-- I’ve divided it into three main sections. The first addresses some very abstract principles of economics. They may not be directly relevant to politics, but since most libertarian philosophies start with abstract economic principles, a serious counterargument has to start there also. Fair warning: there are people who can discuss economics without it being INCREDIBLY MIND-NUMBINGLY BORING, but I am not one of them. -->
+Я разделил его на три основных раздела. Первый обращается к некоторым очень абстрактным принципам экономики. Они могут напрямую не относится к политике, но так как большинство либертарианских философий начинается с абстрактных экономических принципов, мы также должны начать с серьёзных контраргументов. Честное предупреждение: существуют люди, которые могут обсуждать экономику не делая её невыносимо скучной, но я не один из них.
 
-The second section deals with more concrete economic and political problems like the tax system, health care, and criminal justice.
+<!-- The second section deals with more concrete economic and political problems like the tax system, health care, and criminal justice. -->
+Второй раздел разбирается с более конкретными экономическими и политическими проблемами, такими как налоговая система, здравоохранение и уголовное правосудие.
 
-The third section deals with moral issues, like whether it’s ever permissible to initiate force. Too often I find that if I can convince a libertarian that government regulation can be effective, they respond that it doesn’t matter because it’s morally repulsive, and then once I’ve finished convincing them it isn’t, they respond that it never works anyway. By having sections dedicated to both practical and moral issues, I hope to make that sort of bait-and-switch harder to achieve, and to allow libertarians to evaluate the moral and practical arguments against their position in whatever order they find appropriate.
+<!-- The third section deals with moral issues, like whether it’s ever permissible to initiate force. Too often I find that if I can convince a libertarian that government regulation can be effective, they respond that it doesn’t matter because it’s morally repulsive, and then once I’ve finished convincing them it isn’t, they respond that it never works anyway. By having sections dedicated to both practical and moral issues, I hope to make that sort of bait-and-switch harder to achieve, and to allow libertarians to evaluate the moral and practical arguments against their position in whatever order they find appropriate. -->
+Третий раздел описывает моральные аспекты, как например, разрешено ли когда-либо инициировать применение силы. Слишком часто я нахожу, что когда могу убедить либертарианцев, что государственное управление может быть эффективным, они отвечают, что это не имеет значения, так как это морально отталкивающе и когда я их убеждаю, что это не так, они на это отвечают, что всё равно это не работает. Имея разделы, посвященные как практическим, так и нравственным вопросам, я надеюсь, что сделаю этот вид наживки сложнее достижимым и позволю либертарианцам оценить моральные и практические аргументы против их позиций в любом порядке, который они сочтут нужным.
 
-Part A: Economic Issues
+<!-- Part A: Economic Issues -->
+# Часть А: Экономические проблемы
 
-The Argument:
+<!-- The Argument: -->
+**Аргумент**
 
-In a free market, all trade has to be voluntary, so you will never agree to a trade unless it benefits you.
+<!-- In a free market, all trade has to be voluntary, so you will never agree to a trade unless it benefits you. -->
+На свободном рынке вся торговля должна быть добровольной, поэтому вы никогда не договоритесь, если сделка не приносит вам прибыль.
 
-Further, you won’t make a trade unless you think it’s the best possible trade you can make. If you knew you could make a better one, you’d hold out for that. So trades in a free market are not only better than nothing, they’re also the best possible transaction you could make at that time.
+<!-- Further, you won’t make a trade unless you think it’s the best possible trade you can make. If you knew you could make a better one, you’d hold out for that. So trades in a free market are not only better than nothing, they’re also the best possible transaction you could make at that time. -->
+Более того, вы не завершите сделку до тех пор пока не будете уверенными, что это самая выгодная сделка из возможных. Если вы знаете, что сможете заключить на лучших условиях, вы придержите сделку.Таким образом, торговля на свободном рынке не только лучше чем ничего, она также является самой лучшей транзакцией из всех возможных.
 
-Labor is no different from any other commercial transaction in this respect. You won’t agree to a job unless it benefits you more than anything else you can do with your time, and your employer won’t hire you unless it benefits her more than anything else she can do with her money. So a voluntarily agreed labor contract must benefit both parties, and must do so more than any other alternative.
+<!-- Labor is no different from any other commercial transaction in this respect. You won’t agree to a job unless it benefits you more than anything else you can do with your time, and your employer won’t hire you unless it benefits her more than anything else she can do with her money. So a voluntarily agreed labor contract must benefit both parties, and must do so more than any other alternative. -->
+В этом отношении работа ничем не отличается от любой другой коммерческой транзакции. Вы не согласитесь на работу до тех пор, пока она не принесёт вам больше, чем всё что угодно другое, что вы можете сделать со своим временем; и ваш работодатель не наймёт вас до тех пор, пока не это не удовлетворит его больше чем всё остальное, что он может сделать со своими деньгами. Таким образом, добровольно заключаемый трудовой договор должен приносит доход обоим сторонам и должен делать это лучше чем любой другой способ.
 
 If every trade in a free market benefits both parties, then any time the government tries to restrict trade in some way, it must hurt both parties. Or, to put it another way, you can help someone by giving them more options, but you can’t help them by taking away options. And in a free market, where everyone starts with all options, all the government can do is take options away.
 
-The Counterargument:
+<!-- The Counterargument: -->
+**Контраргумент**
 
 This treats the world as a series of producer-consumer dyads instead of as a system in which every transaction affects everyone else. Also, it treats consumers as coherent entities who have specific variables like “utility” and “demand” and know exactly what they are, which doesn’t always work.
 
@@ -95,9 +104,9 @@ In the remainder of this section, I’ll be going over several ways the free mar
 
 I did warn you it would be mind-numbingly boring.
 
-1. Externalities
+### 1. Externalities
 
-1.1: What is an externality?
+#### 1.1: What is an externality?
 
 An externality is when I make a trade with you, but it has some accidental effect on other people who weren’t involved in the trade.
 
