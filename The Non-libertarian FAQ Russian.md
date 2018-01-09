@@ -1,5 +1,5 @@
 # The Non-libertarian FAQ
-> Перевод, оригинал: (http://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/)
+> Original article from February 22, 2017 by Scott Alexander http://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/
 
 <!-- ## Introduction -->
 ## Введение
@@ -88,12 +88,13 @@
 На свободном рынке вся торговля должна быть добровольной, поэтому вы никогда не договоритесь, если сделка не приносит вам прибыль.
 
 <!-- Further, you won’t make a trade unless you think it’s the best possible trade you can make. If you knew you could make a better one, you’d hold out for that. So trades in a free market are not only better than nothing, they’re also the best possible transaction you could make at that time. -->
-Более того, вы не завершите сделку до тех пор пока не будете уверенными, что это самая выгодная сделка из возможных. Если вы знаете, что сможете заключить на лучших условиях, вы придержите сделку.Таким образом, торговля на свободном рынке не только лучше чем ничего, она также является самой лучшей транзакцией из всех возможных.
+Более того, вы не завершите сделку до тех пор пока не будете уверенным, что это самая выгодная сделка из возможных. Если вы знаете, что сможете заключить её на лучших условиях, вы придержите сделку. Таким образом, торговля на свободном рынке не только лучше чем ничего, она также является самой лучшей транзакцией из всех возможных.
 
 <!-- Labor is no different from any other commercial transaction in this respect. You won’t agree to a job unless it benefits you more than anything else you can do with your time, and your employer won’t hire you unless it benefits her more than anything else she can do with her money. So a voluntarily agreed labor contract must benefit both parties, and must do so more than any other alternative. -->
 В этом отношении работа ничем не отличается от любой другой коммерческой транзакции. Вы не согласитесь на работу до тех пор, пока она не принесёт вам больше, чем всё что угодно другое, что вы можете сделать со своим временем; и ваш работодатель не наймёт вас до тех пор, пока не это не удовлетворит его больше чем всё остальное, что он может сделать со своими деньгами. Таким образом, добровольно заключаемый трудовой договор должен приносит доход обоим сторонам и должен делать это лучше чем любой другой способ.
 
-If every trade in a free market benefits both parties, then any time the government tries to restrict trade in some way, it must hurt both parties. Or, to put it another way, you can help someone by giving them more options, but you can’t help them by taking away options. And in a free market, where everyone starts with all options, all the government can do is take options away.
+<!-- If every trade in a free market benefits both parties, then any time the government tries to restrict trade in some way, it must hurt both parties. Or, to put it another way, you can help someone by giving them more options, but you can’t help them by taking away options. And in a free market, where everyone starts with all options, all the government can do is take options away. -->
+Если на свободном рынке каждая сделка наилучшим образом удовлетворяет требованиями обеих сторон, то любая попытка государства ограничить торговлю повредит им. Или по другому, вы можете помочь кому-то если дадите ему больше опций, но не сможете это сделать забирая их. И на свободном рынке, где каждый участник начинает со всеми опциями, всё что сможет сделать государство это забрать какую-то из опций.   
 
 <!-- The Counterargument: -->
 **Контраргумент**
