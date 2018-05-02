@@ -91,19 +91,23 @@
 Более того, вы не завершите сделку до тех пор пока не будете уверенным, что это самая выгодная сделка из возможных. Если вы знаете, что сможете заключить её на лучших условиях, вы придержите сделку. Таким образом, торговля на свободном рынке не только лучше чем ничего, она также является самой лучшей транзакцией из всех возможных.
 
 <!-- Labor is no different from any other commercial transaction in this respect. You won’t agree to a job unless it benefits you more than anything else you can do with your time, and your employer won’t hire you unless it benefits her more than anything else she can do with her money. So a voluntarily agreed labor contract must benefit both parties, and must do so more than any other alternative. -->
-В этом отношении работа ничем не отличается от любой другой коммерческой транзакции. Вы не согласитесь на работу до тех пор, пока она не принесёт вам больше, чем всё что угодно другое, что вы можете сделать со своим временем; и ваш работодатель не наймёт вас до тех пор, пока не это не удовлетворит его больше чем всё остальное, что он может сделать со своими деньгами. Таким образом, добровольно заключаемый трудовой договор должен приносит доход обоим сторонам и должен делать это лучше чем любой другой способ.
+В этом отношении труд ничем не отличается от любой другой коммерческой транзакции. Вы не согласитесь на работу до тех пор, пока она не принесёт вам больше, чем всё что угодно другое, что вы можете сделать со своим временем; и ваш работодатель не наймёт вас до тех пор, пока это не удовлетворит его больше чем всё остальное, что он может сделать со своими деньгами. Таким образом, добровольно заключаемый трудовой договор должен приносит доход обеим сторонам и должен делать это лучше чем любая другая альтернатива.
 
 <!-- If every trade in a free market benefits both parties, then any time the government tries to restrict trade in some way, it must hurt both parties. Or, to put it another way, you can help someone by giving them more options, but you can’t help them by taking away options. And in a free market, where everyone starts with all options, all the government can do is take options away. -->
-Если на свободном рынке каждая сделка наилучшим образом удовлетворяет требованиями обеих сторон, то любая попытка государства ограничить торговлю повредит им. Или по другому, вы можете помочь кому-то если дадите ему больше опций, но не сможете это сделать забирая их. И на свободном рынке, где каждый участник начинает со всеми опциями, всё что сможет сделать государство это забрать какую-то из опций.   
+Если на свободном рынке каждая сделка наилучшим образом удовлетворяет требованиями обеих сторон, то любая попытка государства ограничить торговлю повредит обеим сторонам. Или по другому, вы можете помочь кому-то если дадите ему больше опций, но не сможете это сделать забирая их. И на свободном рынке, где каждый участник начинает со всеми опциями, всё что сможет сделать государство это забрать какую-то из опций.   
 
 <!-- The Counterargument: -->
 **Контраргумент**
 
-This treats the world as a series of producer-consumer dyads instead of as a system in which every transaction affects everyone else. Also, it treats consumers as coherent entities who have specific variables like “utility” and “demand” and know exactly what they are, which doesn’t always work.
+<!-- This treats the world as a series of producer-consumer dyads instead of as a system in which every transaction affects everyone else. Also, it treats consumers as coherent entities who have specific variables like “utility” and “demand” and know exactly what they are, which doesn’t always work. -->
+Эта позиция трактует мир как набор пар производитель-потребитель вместо системы в которой каждая транзакция касается всех остальных. Также она трактует потребителей как связанные объекты, обладающие конкретными переменными, такими как *потребление* и *спрос*, что не всегда работает.
 
-In the remainder of this section, I’ll be going over several ways the free market can fail and several ways a regulated market can overcome those failures. I’ll focus on four main things: externalities, coordination problems, irrational choice, and lack of information.
+<!-- In the remainder of this section, I’ll be going over several ways the free market can fail and several ways a regulated market can overcome those failures. I’ll focus on four main things: externalities, coordination problems, irrational choice, and lack of information. -->
+Ниже в данном разделе я собираюсь разобрать несколько ситуаций, в которых свободный рынок может потерпеть неудачу, и несколько ситуаций, в которых управляемый рынок сможет эти неудачи преодолеть.
 
-I did warn you it would be mind-numbingly boring.
+<!-- I did warn you it would be mind-numbingly boring. -->
+
+Я вас предупредил, что это может быть до одурения скучно.
 
 ### 1. Externalities
 
