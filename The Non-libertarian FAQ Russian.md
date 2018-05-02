@@ -109,19 +109,25 @@
 
 Я вас предупредил, что это может быть до одурения скучно.
 
-### 1. Externalities
+<!-- ### 1. Externalities -->
+### 1. Внешние эффекты
 
-#### 1.1: What is an externality?
+<!-- #### 1.1: What is an externality? -->
+#### 1.1: Что такое внешние эффекты?
 
-An externality is when I make a trade with you, but it has some accidental effect on other people who weren’t involved in the trade.
+<!-- An externality is when I make a trade with you, but it has some accidental effect on other people who weren’t involved in the trade. -->
+Внешний эффект -- это когда я заключаю с вами сделку, но она имеет некоторое непредусмотренное воздействие на людей, не вовлечённых в неё.
 
-Suppose for example that I sell my house to an amateur wasp farmer. Only he’s not a very good wasp farmer, so his wasps usually get loose and sting people all over the neighborhood every couple of days.
+<!-- Suppose for example that I sell my house to an amateur wasp farmer. Only he’s not a very good wasp farmer, so his wasps usually get loose and sting people all over the neighborhood every couple of days. -->
+Предположим, например, что я продаю свой дом разводчику ос. Только он не очень хороший разводчик и его осы обычно вырываются на свободу и каждую пару дней жалят людей по соседству.
 
-This trade between the wasp farmer and myself has benefitted both of us, but it’s harmed people who weren’t consulted; namely, my neighbors, who are now locked indoors clutching cans of industrial-strength insect repellent. Although the trade was voluntary for both the wasp farmer and myself, it wasn’t voluntary for my neighbors.
+<!-- This trade between the wasp farmer and myself has benefitted both of us, but it’s harmed people who weren’t consulted; namely, my neighbors, who are now locked indoors clutching cans of industrial-strength insect repellent. Although the trade was voluntary for both the wasp farmer and myself, it wasn’t voluntary for my neighbors. -->
+Эта сделка между разводчиком ос и мной принесла пользу нам обоим, но она навредила людям, с которыми мы не проконсультировались; в частности моим соседям, которые теперь заперты внутри в обнимку с банками концентрированного репеллента от насекомых. Несмотря на то, что эта сделка была добровольной для меня и разводчика ос, она не была таковой для моих соседей.
 
-Another example of externalities would be a widget factory that spews carcinogenic chemicals into the air. When I trade with the widget factory I’m benefitting – I get widgets – and they’re benefitting – they get money. But the people who breathe in the carcinogenic chemicals weren’t consulted in the trade.
+<!-- Another example of externalities would be a widget factory that spews carcinogenic chemicals into the air. When I trade with the widget factory I’m benefitting – I get widgets – and they’re benefitting – they get money. But the people who breathe in the carcinogenic chemicals weren’t consulted in the trade. -->
+Другим примером внешнего эффекта может быть фабрика запчастей, которая выбрасывает канцерогенные химикаты в воздух. Когда я совершаю сделку с этой фабрикой, это мне выгодно -- я получаю запчасти, и им это выгодно -- они получают деньги. Но люди, вдыхающие канцерогенные химикаты, не принимали участие в сделке.
 
-1.2: But aren’t there are libertarian ways to solve externalities that don’t involve the use of force?
+#### 1.2: But aren’t there are libertarian ways to solve externalities that don’t involve the use of force?
 
 To some degree, yes. You can, for example, refuse to move into any neighborhood unless everyone in town has signed a contract agreeing not to raise wasps on their property.
 
