@@ -127,29 +127,33 @@
 <!-- Another example of externalities would be a widget factory that spews carcinogenic chemicals into the air. When I trade with the widget factory I’m benefitting – I get widgets – and they’re benefitting – they get money. But the people who breathe in the carcinogenic chemicals weren’t consulted in the trade. -->
 Другим примером внешнего эффекта может быть фабрика запчастей, которая выбрасывает канцерогенные химикаты в воздух. Когда я совершаю сделку с этой фабрикой, это мне выгодно -- я получаю запчасти, и им это выгодно -- они получают деньги. Но люди, вдыхающие канцерогенные химикаты, не принимали участие в сделке.
 
-#### 1.2: But aren’t there are libertarian ways to solve externalities that don’t involve the use of force?
+<!-- #### 1.2: But aren’t there are libertarian ways to solve externalities that don’t involve the use of force? -->
+#### 1.2: Но разве не существует либертарианских путей решить вопрос внешнего воздействия без привлечения силы?
 
-To some degree, yes. You can, for example, refuse to move into any neighborhood unless everyone in town has signed a contract agreeing not to raise wasps on their property.
+<!-- To some degree, yes. You can, for example, refuse to move into any neighborhood unless everyone in town has signed a contract agreeing not to raise wasps on their property. -->
+В некоторой степени -- да, существуют. Вы можете, например, отказаться переезжать в любой район до тех пор, пока каждый в городе не подпишет соглашение не разводить ос на свой частной собственности.
 
-But getting every single person in a town of thousands of people to sign a contract every time you think of something else you want banned might be a little difficult. More likely, you would want everyone in town to unanimously agree to a contract saying that certain things, which could be decided by some procedure requiring less than unanimity, could be banned from the neighborhood – sort of like the existing concept of neighborhood associations.
+<!-- But getting every single person in a town of thousands of people to sign a contract every time you think of something else you want banned might be a little difficult. More likely, you would want everyone in town to unanimously agree to a contract saying that certain things, which could be decided by some procedure requiring less than unanimity, could be banned from the neighborhood – sort of like the existing concept of neighborhood associations. -->
+Но собирание подписей на договоре с каждого жителя многотысячного города каждый раз, когда вы думаете о запрете чего-либо ещё может быть затруднительно. Более вероятно, что вы захотите, чтобы каждый в городе подписал соглашение, что некоторые обстоятельства, перечень которых определяется процедурой, требующей менее чем единогласного одобрения, могут быть запрещены -- в некотором роде концепт существования общественного объединения жителей района.
 
-But convincing every single person in a town of thousands to join the neighborhood association would be near impossible, and all it would take would be a single holdout who starts raising wasps and all your work is useless. Better, perhaps, to start a new town on your own land with a pre-existing agreement that before you’re allowed to move in you must belong to the association and follow its rules. You could even collect dues from the members of this agreement to help pay for the people you’d need to enforce it.
+<!-- But convincing every single person in a town of thousands to join the neighborhood association would be near impossible, and all it would take would be a single holdout who starts raising wasps and all your work is useless. Better, perhaps, to start a new town on your own land with a pre-existing agreement that before you’re allowed to move in you must belong to the association and follow its rules. You could even collect dues from the members of this agreement to help pay for the people you’d need to enforce it. -->
+Однако, убеждение каждого жителя многотысячного города присоединиться к общественному объединению, будет практически невозможным и всё чего вы добьётесь будет единственный уклонист, отказавшийся поставить свою подпись, а ваша работа станет бесполезной. Лучшим, возможно, будет основать новый город на своей собственной земле с предварительно подготовленным соглашением, по которому, перед тем как переехать, вы должны будете присоединиться к ассоциации и следовать их правилами. Вы можете даже по этому соглашению взимать плату с членов общества, чтобы оплачивать работу людей, которые вам понадобятся для соблюдения таких правил.
 
 But in this case, you’re not coming up with a clever libertarian way around government, you’re just reinventing the concept of government. There’s no difference between a town where to live there you have to agree to follow certain terms decided by association members following some procedure, pay dues, and suffer the consequences if you break the rules – and a regular town with a regular civic government.
 
 As far as I know there is no loophole-free way to protect a community against externalities besides government and things that are functionally identical to it.
 
-1.3: Couldn’t consumers boycott any company that causes externalities?
+#### 1.3: Couldn’t consumers boycott any company that causes externalities?
 
 Only a small proportion of the people buying from a company will live near the company’s factory, so this assumes a colossal amount of both knowledge and altruism on the part of most consumers. See also the general discussion of why boycotts almost never solve problems in the next session.
 
-1.4: What is the significance of externalities?
+#### 1.4: What is the significance of externalities?
 
 They justify some environmental, zoning, and property use regulations.
 
-2. Coordination Problems
+### 2. Coordination Problems
 
-2.1: What are coordination problems?
+#### 2.1: What are coordination problems?
 
 Coordination problems are cases in which everyone agrees that a certain action would be best, but the free market cannot coordinate them into taking that action.
 
