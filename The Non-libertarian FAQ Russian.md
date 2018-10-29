@@ -146,7 +146,7 @@
 Насколько мне известно, не существует никакого способа безболезненно защитить общество от внешних факторов помимо правительства и структур, функционально идентичных ему.
 
 <!-- #### 1.3: Couldn’t consumers boycott any company that causes externalities? -->
-Не могут ли потребители бойкотировать любую компанию, допускающую внешние факторы?
+### 1.3: Не могут ли потребители бойкотировать любую компанию, допускающую внешние факторы?
 
 <!-- Only a small proportion of the people buying from a company will live near the company’s factory, so this assumes a colossal amount of both knowledge and altruism on the part of most consumers. See also the general discussion of why boycotts almost never solve problems in the next session. -->
 Только небольшая часть людей, покупающая товары у компании, будет жить в непосредственной близости от завода компании, таким образом бойкот подразумевает колоссальное количество знаний и альтруизма у большой части потребителей. Также смотрите общую дискуссию почему бойкот практически никогда не решает проблем в следующем периоде.  
